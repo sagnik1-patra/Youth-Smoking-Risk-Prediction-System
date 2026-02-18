@@ -1,0 +1,6 @@
+{
+    "ANN_Accuracy": 0.045454545454545456,
+    "RandomForest_Accuracy": 0.045454545454545456,
+    "LogisticRegression_Accuracy": 0.045454545454545456,
+    "Test_Samples": 22
+}
