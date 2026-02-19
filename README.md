@@ -1,5 +1,5 @@
 🧠 Hybrid GA + AIS Youth Smoking Risk Prediction System.
-📌 Project Overview
+📌 Project Overview:
 
 This project implements a Hybrid Genetic Algorithm (GA) + Artificial Immune System (AIS) optimized deep learning model to predict youth smoking risk using the GYTS dataset.
 
